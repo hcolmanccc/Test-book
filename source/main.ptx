@@ -6,7 +6,7 @@
 
   <book xml:id="my-great-book">
     <title>My Test Book</title>
-    <subtitle>Sandboox</subtitle>
+    <subtitle>Sandbox</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
