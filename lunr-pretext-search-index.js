@@ -10,13 +10,13 @@ var ptx_lunr_docs = [
   "body": "  My Website   copyright  "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-name",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-name.html",
   "type": "Section",
   "number": "1.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "title": "First section",
+  "body": " First section  Text of section. For example  \\begin{tikzpicture} \\begin{axis}[ axis lines = center, xlabel = \\(x\\), ylabel = {\\(y\\)}, domain = -1:1, ymin = -1, ymax = 7, ] \\addplot [] {5*x^2}; \\end{axis} \\end{tikzpicture} "
 },
 {
   "id": "backmatter-2",
