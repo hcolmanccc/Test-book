@@ -10,6 +10,15 @@ var ptx_lunr_docs = [
   "body": "  My Website   copyright  "
 },
 {
+  "id": "frontmatter-3",
+  "level": "1",
+  "url": "frontmatter-3.html",
+  "type": "Preface",
+  "number": "",
+  "title": "Authors",
+  "body": " Authors    B  Department of Mathematics  Duke University  jdr@math.duke.edu    Hellen Colman  Math Department  Wright College  hcolman@ccc.edu    C  School of Mathematics  Georgia Institute of Technology  larry.rolen@math.gatech.edu    "
+},
+{
   "id": "sec-name",
   "level": "1",
   "url": "sec-name.html",
