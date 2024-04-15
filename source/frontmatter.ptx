@@ -39,7 +39,7 @@
         <personname>B</personname>
         <department>Department of Mathematics</department>
         <institution>Duke University</institution>
-        <email>jdr@math.duke.edu</email>
+        <email></email>
       </contributor>
       
       <contributor xml:id="hc">
@@ -53,7 +53,7 @@
         <personname>C</personname>
         <department>School of Mathematics</department>
         <institution>Georgia Institute of Technology</institution>
-        <email>larry.rolen@math.gatech.edu</email>
+        <email></email>
       </contributor>
     </contributors>
   </preface>
