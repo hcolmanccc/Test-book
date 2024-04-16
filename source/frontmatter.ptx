@@ -51,8 +51,8 @@
 
       <contributor xml:id="larry">
         <personname>C</personname>
-        <department>School of Mathematics</department>
-        <institution>Georgia Institute of Technology</institution>
+        <department>S</department>
+        <institution>G</institution>
         <email></email>
       </contributor>
     </contributors>
