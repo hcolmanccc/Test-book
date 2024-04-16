@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Preface",
   "number": "",
   "title": "Authors",
-  "body": " Authors    B  Department of Mathematics  Duke University  jdr@math.duke.edu    Hellen Colman  Math Department  Wright College  hcolman@ccc.edu    C  School of Mathematics  Georgia Institute of Technology  larry.rolen@math.gatech.edu    "
+  "body": " Authors    B  Department of Mathematics  Duke University     Hellen Colman  Math Department  Wright College  hcolman@ccc.edu    C  School of Mathematics  Georgia Institute of Technology     "
 },
 {
   "id": "sec-name",
