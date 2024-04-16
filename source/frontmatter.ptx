@@ -9,6 +9,7 @@
       <personname>Hellen Colman</personname>
       <department>Math Department</department>
       <institution>Wright College</institution>
+      <!-- <email>hcolman@ccc.edu</email> -->
     </author>
     <date>
       <today />
@@ -28,5 +29,33 @@
       </shortlicense>
     </copyright>
   </colophon>
+  <preface>
+    <title>Authors</title>
+
+    <contributors>
+      
+
+      <contributor xml:id="jdr">
+        <personname>B</personname>
+        <department>Department of Mathematics</department>
+        <institution>Duke University</institution>
+        <email></email>
+      </contributor>
+      
+      <contributor xml:id="hc">
+        <personname>Hellen Colman</personname>
+        <department>Math Department</department>
+        <institution>Wright College</institution>
+        <email>hcolman@ccc.edu</email>
+      </contributor>
+
+      <contributor xml:id="larry">
+        <personname>C</personname>
+        <department>S</department>
+        <institution>G</institution>
+        <email></email>
+      </contributor>
+    </contributors>
+  </preface>
 </frontmatter>
 
