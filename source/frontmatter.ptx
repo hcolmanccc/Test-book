@@ -56,37 +56,6 @@
         <email></email>
       </contributor>
     </contributors>
- <acknowledgement>
-    <p permid="ewA">
-      We would like to acknowledge the following reviewers for their helpful comments and suggestions.
-
-      <ul permid="ODI">
-        <li permid="uKR">
-          <p permid="EeD">
-            A B, University of Tennessee, Knoxville
-          </p>
-        </li>
-
-        <li permid="aSa">
-          <p permid="klM">
-            F U, University of Puget Sound
-          </p>
-        </li>
-
-
-        <li permid="XXu">
-          <p permid="hrg">
-            M T, University of Wisconsin
-          </p>
-        </li>
-      </ul>
-    </p>
-
-    <p permid="KDJ">
-      We would also like to thank ...
-    </p>
-       
-  </acknowledgement>
 
   <preface permid="Cpq">
     <p permid="Nyp">
@@ -113,7 +82,8 @@
     
     <attribution>
     <line>Hellen Colman</line>
-    <line>Chicago, 2024</line></attribution>
+    <line>Chicago, 2024</line>
+    </attribution>
   </preface>
 </frontmatter>
 
