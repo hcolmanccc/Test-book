@@ -34,7 +34,6 @@
 
     <contributors>
       
-
       <contributor xml:id="jdr">
         <personname>B</personname>
         <department>Department of Mathematics</department>
@@ -56,34 +55,14 @@
         <email></email>
       </contributor>
     </contributors>
-
-  <preface permid="Cpq">
-    <p permid="Nyp">
+    <title>Preface</title>
+    <p >
       This text is 
     </p>
-
-    <p permid="tFy">
-      Until recently 
-    </p>
-
-    <p permid="ZMH">
-      This text contains 
-    </p>
-
-
-    <p permid="FTQ">
-      Though there 
-    </p>
-
-    <p permid="maZ">
-      Exercise sections 
-    </p>
-
-    
-    <attribution>
+   <attribution>
     <line>Hellen Colman</line>
     <line>Chicago, 2024</line>
-    </attribution>
+   </attribution>
   </preface>
 </frontmatter>
 
