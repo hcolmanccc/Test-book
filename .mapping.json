@@ -1,1 +1,1 @@
-{"source/main.ptx": ["my-test-book"], "source/frontmatter.ptx": ["frontmatter"], "source/ch-chapter-title.ptx": ["ch-chapter-title"], "source/sec-section-name.ptx": ["sec-name"], "source/backmatter.ptx": ["backmatter"]}
+{"source/main.ptx": ["my-test-book"], "source/frontmatter.ptx": ["frontmatter", "authors"], "source/ch-chapter-title.ptx": ["ch-chapter-title"], "source/sec-section-name.ptx": ["sec-name"], "source/backmatter.ptx": ["backmatter"]}
